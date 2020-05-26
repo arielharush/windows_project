@@ -1,0 +1,11 @@
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\BL\bin\Debug\BL.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\BL\bin\Debug\BL.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\BL\bin\Debug\BE.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\BL\bin\Debug\DAL.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\BL\bin\Debug\DS.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\BL\bin\Debug\BE.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\BL\bin\Debug\DAL.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\BL\bin\Debug\DS.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\BL\obj\Debug\BL.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\BL\obj\Debug\BL.pdb

@@ -1,0 +1,31 @@
+c:\users\arilel\documents\visual studio 2015\Projects\UI\UI\bin\Debug\UI.exe
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\bin\Debug\BE.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\bin\Debug\BL.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\bin\Debug\DAL.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\bin\Debug\DS.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\bin\Debug\BE.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\bin\Debug\BL.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\bin\Debug\DAL.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\bin\Debug\DS.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\AddShop.g.cs
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\AddShopW.g.cs
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\AdminMenu.g.cs
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\MainWindow.g.cs
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\App.g.cs
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\AddShop.baml
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\AddShopW.baml
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\AdminMenu.baml
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\MainWindow.baml
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\UI.g.resources
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\UI.exe
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\UI.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\bin\Debug\UI.exe.config
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\bin\Debug\UI.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\bin\Debug\UI.exe.config
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\UI.exe
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\UI.pdb

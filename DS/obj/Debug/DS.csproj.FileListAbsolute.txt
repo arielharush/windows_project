@@ -1,0 +1,7 @@
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DS\bin\Debug\DS.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DS\bin\Debug\DS.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DS\bin\Debug\BE.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DS\bin\Debug\BE.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DS\obj\Debug\DS.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DS\obj\Debug\DS.pdb
