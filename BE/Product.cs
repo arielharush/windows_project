@@ -31,12 +31,16 @@ namespace BE
         public int idForAnalysis { get; set; }
 
 
+
+        public NutritionalValues nutritionalValues { get; set; }
+
         public Product(int id , string name, float adminRate, int idForAnalysis) {
 
             this.id = id;
             this.name = name;
             this.AdminRate(adminRate);
             this.idForAnalysis = idForAnalysis;
+
         }
 
 
@@ -46,7 +50,7 @@ namespace BE
             this.name = t.name;
             this.AdminRate(t.adminRate);
             this.idForAnalysis = t.idForAnalysis;
-
+            this.nutritionalValues = t.nutritionalValues;
         }
 
 
@@ -57,6 +61,11 @@ namespace BE
             this.name = "";
             this.AdminRate(0);
             this.idForAnalysis = 0;
+            NutritionalValues nutritionalValues = new NutritionalValues();
+            nutritionalValues.energy = 0;
+            nutritionalValues.fats = 0;
+            nutritionalValues.protein = 0;
+            this.nutritionalValues = nutritionalValues;
 
         }
 

@@ -27,7 +27,8 @@ namespace UI
 
         private void button1_Click(object sender, RoutedEventArgs e)
         {
-
+            (new UI.Windows.UserWindow()).Show();
+            this.Close();
         }
 
         private void button_Click(object sender, RoutedEventArgs e)

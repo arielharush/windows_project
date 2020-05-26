@@ -40,6 +40,16 @@ namespace BL
             return Dal.getProductsList();
         }
 
+        public List<Product> getProductsListByListOfId(List<int> ids)
+        {
+            List<Product> temp = new List<Product>();
+            for (int i = 0; i < ids.Count; i++)
+            {
+                temp.Add(getProductById(ids[i]));
+            }
+            return temp;
+        }
+
         public Shop getShopByID(int id)
         {
             return Dal.shop_by_id(id);

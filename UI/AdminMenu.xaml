@@ -70,8 +70,8 @@
 
                 <DataGrid.ContextMenu>
                     <ContextMenu ItemsSource="{Binding RelativeSource={RelativeSource Self}}">
-                        <MenuItem Header="Edit"  />
-                        <MenuItem Header="Add test for this trainee"  />
+                        <MenuItem Header="Find All Products in this shop" Click="MenuItem_Click"  />
+                       
                     </ContextMenu>
                 </DataGrid.ContextMenu>
             </DataGrid>

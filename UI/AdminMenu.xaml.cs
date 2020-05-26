@@ -81,5 +81,13 @@ namespace UI
             }
 
         }
+
+        private void MenuItem_Click(object sender, RoutedEventArgs e)
+        {
+             // error event if need more pages , to complete
+            datagridShops.ItemsSource =   bl.getProductsListByListOfId( ((BE.Shop)dataGrid.SelectedItem).products);
+            
+           
+        }
     }
 }

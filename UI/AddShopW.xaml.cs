@@ -23,6 +23,7 @@ namespace UI
     /// </summary>
     public partial class AddShopW : Window
     {
+        System.Drawing.Image imagec;
         BL.IBL bl = BL.FactoryBL.getBL();
         public AddShopW()
         {
@@ -58,7 +59,9 @@ namespace UI
             address.num = int.Parse(textBoxNumber.Text);
 
             Shop shop = new Shop(0, textBoxName.Text, address, textBoxPhone.Text, textBoxWebsite.Text, textBoxFacebook.Text);
+            shop.image = imagec;
             bl.addShop(shop);
+
         }
 
         private void button_Click(object sender, RoutedEventArgs e)
@@ -67,12 +70,12 @@ namespace UI
            
             // image filters  
             open.Filter = "Image Files(*.jpg; *.jpeg; *.gif; *.bmp)|*.jpg; *.jpeg; *.gif; *.bmp";
-            if (open.ShowDialog() == DialogResult.HasValue)
+            if (open.ShowDialog() == true)
             {
                 // display image in picture box  
-                
-                image.Source = GetImageStream(System.Drawing.Image.FromFile(open.FileName));
-                MessageBox.Show(open.FileName);
+                imagec = System.Drawing.Image.FromFile(open.FileName);
+                image.Source = GetImageStream(imagec);
+              
                // image.BeginAnimation()
                 // image file path  
                 

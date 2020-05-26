@@ -31,7 +31,7 @@ namespace BL
 
 
 
-
+        List<Product> getProductsListByListOfId(List<int> ids);
 
 
 

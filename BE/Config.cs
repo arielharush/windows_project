@@ -14,6 +14,15 @@ namespace BE
 
        
     }
+
+    public struct NutritionalValues
+    {
+     public int energy { get; set; }
+        public int protein { get; set; }
+        public int fats { get; set; }
+    }
+
+
     public class Config
     {
 

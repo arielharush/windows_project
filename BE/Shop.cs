@@ -13,7 +13,7 @@ namespace BE
         public int id { set; get; }
         public string name { set; get; }
         public Address address { set; get; }
-        private  Image image { get; set; }
+        public  Image image { get; set; }
         public string phone { get; set; }
         public string webSite { get; set; }
         public string faceBook { get; set; }
@@ -21,7 +21,7 @@ namespace BE
         /// 
         /// </summary>
         /// if to make map insted list
-        public List<Product> products { get; set; }
+        public List<int> products { get; set; }
 
         public Shop() {
             this.id = 0;
@@ -34,7 +34,8 @@ namespace BE
             this.webSite = "";
             this.faceBook = "";
             this.name = "";
-            this.products = new List<Product>();
+            this.products = new List<int>();
+            
         }
         public Shop(Shop t)
         {
@@ -48,7 +49,7 @@ namespace BE
             this.phone = t.phone;
             this.webSite = t.webSite;
             this.faceBook = t.faceBook;
-            this.products = new List<Product>(t.products);
+            this.products = new List<int>(t.products);
             this.name = t.name;
 
         }

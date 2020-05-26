@@ -5,3 +5,12 @@ C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DS\bin\Debug\BE.pdb
 C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
 C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DS\obj\Debug\DS.dll
 C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DS\obj\Debug\DS.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\DS\bin\Debug\DS.dll
+C:\xampp\htdocs\GitHub\UI\windows_project\DS\bin\Debug\DS.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\DS\bin\Debug\BE.dll
+C:\xampp\htdocs\GitHub\UI\windows_project\DS\bin\Debug\BE.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\DS\obj\Debug\DS.dll
+C:\xampp\htdocs\GitHub\UI\windows_project\DS\obj\Debug\DS.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\DS\obj\Debug\DS.csprojAssemblyReference.cache
+C:\xampp\htdocs\GitHub\UI\windows_project\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\GitHub\UI\windows_project\DS\obj\Debug\DS.csproj.CopyComplete
