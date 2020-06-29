@@ -1,0 +1,44 @@
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DAL\bin\Debug\DAL.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DAL\bin\Debug\DAL.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DAL\bin\Debug\BE.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DAL\bin\Debug\DS.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DAL\bin\Debug\BE.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DAL\bin\Debug\DS.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DAL\obj\Debug\DAL.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DAL\obj\Debug\DAL.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\DAL\bin\Debug\DAL.dll
+C:\xampp\htdocs\GitHub\UI\windows_project\DAL\bin\Debug\DAL.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\DAL\bin\Debug\BE.dll
+C:\xampp\htdocs\GitHub\UI\windows_project\DAL\bin\Debug\DS.dll
+C:\xampp\htdocs\GitHub\UI\windows_project\DAL\bin\Debug\BE.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\DAL\bin\Debug\DS.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\DAL\obj\Debug\DAL.dll
+C:\xampp\htdocs\GitHub\UI\windows_project\DAL\obj\Debug\DAL.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\xampp\htdocs\GitHub\UI\windows_project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\GitHub\UI\windows_project\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Users\Leivi\Documents\GitHub\windows_project\DAL\bin\Debug\DAL.dll
+D:\Users\Leivi\Documents\GitHub\windows_project\DAL\bin\Debug\DAL.pdb
+D:\Users\Leivi\Documents\GitHub\windows_project\DAL\bin\Debug\BE.dll
+D:\Users\Leivi\Documents\GitHub\windows_project\DAL\bin\Debug\DS.dll
+D:\Users\Leivi\Documents\GitHub\windows_project\DAL\bin\Debug\BE.pdb
+D:\Users\Leivi\Documents\GitHub\windows_project\DAL\bin\Debug\DS.pdb
+D:\Users\Leivi\Documents\GitHub\windows_project\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Users\Leivi\Documents\GitHub\windows_project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Users\Leivi\Documents\GitHub\windows_project\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Users\Leivi\Documents\GitHub\windows_project\DAL\obj\Debug\DAL.dll
+D:\Users\Leivi\Documents\GitHub\windows_project\DAL\obj\Debug\DAL.pdb
+D:\Users\Leivi\Documents\GitHub\windows_project\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Leivi\Documents\GitHub\windows_project\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\DAL\bin\Debug\DAL.dll
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\DAL\bin\Debug\DAL.pdb
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\DAL\bin\Debug\BE.dll
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\DAL\bin\Debug\DS.dll
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\DAL\bin\Debug\BE.pdb
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\DAL\bin\Debug\DS.pdb
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\DAL\obj\Debug\DAL.dll
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,170 @@
+c:\users\arilel\documents\visual studio 2015\Projects\UI\UI\bin\Debug\UI.exe
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\bin\Debug\BE.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\bin\Debug\BL.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\bin\Debug\DAL.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\bin\Debug\DS.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\bin\Debug\BE.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\bin\Debug\BL.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\bin\Debug\DAL.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\bin\Debug\DS.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\AddShop.g.cs
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\AddShopW.g.cs
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\AdminMenu.g.cs
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\MainWindow.g.cs
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\App.g.cs
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\AddShop.baml
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\AddShopW.baml
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\AdminMenu.baml
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\MainWindow.baml
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\UI.g.resources
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\UI.exe
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\obj\Debug\UI.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\bin\Debug\UI.exe.config
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\UI\bin\Debug\UI.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\bin\Debug\UI.exe.config
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\UI.exe
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\UI.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\bin\Debug\UI.exe
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\bin\Debug\UI.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\bin\Debug\BE.dll
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\bin\Debug\BL.dll
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\bin\Debug\DAL.dll
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\bin\Debug\DS.dll
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\bin\Debug\BE.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\bin\Debug\BL.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\bin\Debug\DAL.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\bin\Debug\DS.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\AddShop.g.cs
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\AddShopW.g.cs
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\AdminMenu.g.cs
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\MainWindow.g.cs
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\App.g.cs
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\UI_MarkupCompile.cache
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\UI_MarkupCompile.lref
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\AddShop.baml
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\AddShopW.baml
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\AdminMenu.baml
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\MainWindow.baml
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\UI.g.resources
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\UI.Properties.Resources.resources
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\UI_Content.g.cs
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\Windows\UserWindow.g.cs
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\bin\Debug\MaterialDesign.dll
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\bin\Debug\MaterialDesignColors.dll
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\bin\Debug\MaterialDesignColors.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\App.baml
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\Windows\UserWindow.baml
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\Controls\map.g.cs
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\Pages\AddProduct.g.cs
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\Controls\map.baml
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\Pages\AddProduct.baml
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\GitHub\UI\windows_project\UI\obj\Debug\UI.csproj.CopyComplete
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\bin\Debug\UI.exe.config
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\bin\Debug\UI.exe
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\bin\Debug\UI.pdb
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\bin\Debug\BE.dll
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\bin\Debug\BL.dll
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\bin\Debug\MaterialDesign.dll
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\bin\Debug\MaterialDesignColors.dll
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\bin\Debug\DAL.dll
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\bin\Debug\DS.dll
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\bin\Debug\BE.pdb
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\bin\Debug\BL.pdb
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\bin\Debug\MaterialDesignColors.pdb
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\bin\Debug\DAL.pdb
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\bin\Debug\DS.pdb
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\UI.csprojAssemblyReference.cache
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\AddShopW.g.cs
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\AdminMenu.g.cs
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\Controls\map.g.cs
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\MainWindow.g.cs
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\Pages\AddProduct.g.cs
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\Windows\UserWindow.g.cs
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\App.g.cs
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\UI_Content.g.cs
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\UI_MarkupCompile.cache
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\UI_MarkupCompile.lref
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\App.baml
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\AddShopW.baml
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\AdminMenu.baml
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\Controls\map.baml
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\MainWindow.baml
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\Pages\AddProduct.baml
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\Windows\UserWindow.baml
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\UI.g.resources
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\UI.Properties.Resources.resources
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\UI.csproj.CopyComplete
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\UI.exe
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\UI.pdb
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\addProduct.g.cs
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\obj\Debug\addProduct.baml
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Leivi\Documents\GitHub\windows_project\UI\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Leivi\Downloads\GitHub\windows_project\UI\bin\Debug\UI.exe.config
+D:\Users\Leivi\Downloads\GitHub\windows_project\UI\obj\Debug\UI.exe
+D:\Users\Leivi\Downloads\GitHub\windows_project\UI\obj\Debug\UI.pdb
+D:\Users\Leivi\Documents\documentos de materias\shana guimel\chalonot\windows_project\UI\bin\Debug\UI.exe.config
+D:\Users\Leivi\Documents\documentos de materias\shana guimel\chalonot\windows_project\UI\obj\Debug\UI.exe
+D:\Users\Leivi\Documents\documentos de materias\shana guimel\chalonot\windows_project\UI\obj\Debug\UI.pdb
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\bin\Debug\UI.exe.config
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\UI.exe
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\UI.pdb
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\addProduct.g.cs
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\AddShopW.g.cs
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\AdminMenu.g.cs
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\MainWindow.g.cs
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\Pages\AddProduct.g.cs
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\Windows\UserWindow.g.cs
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\App.g.cs
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\UI_Content.g.cs
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\bin\Debug\UI.exe
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\bin\Debug\UI.pdb
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\bin\Debug\BE.dll
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\bin\Debug\BL.dll
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\bin\Debug\MaterialDesign.dll
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\bin\Debug\MaterialDesignColors.dll
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\bin\Debug\DAL.dll
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\bin\Debug\DS.dll
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\bin\Debug\BE.pdb
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\bin\Debug\BL.pdb
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\bin\Debug\DAL.pdb
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\bin\Debug\DS.pdb
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\Controls\map.g.cs
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\App.baml
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\addProduct.baml
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\AddShopW.baml
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\AdminMenu.baml
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\Controls\map.baml
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\MainWindow.baml
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\Pages\AddProduct.baml
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\Windows\UserWindow.baml
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\UI.g.resources
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\UI\obj\Debug\UI.csproj.GenerateResource.Cache

@@ -1,0 +1,36 @@
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DS\bin\Debug\DS.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DS\bin\Debug\DS.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DS\bin\Debug\BE.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DS\bin\Debug\BE.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DS\obj\Debug\DS.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\DS\obj\Debug\DS.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\DS\bin\Debug\DS.dll
+C:\xampp\htdocs\GitHub\UI\windows_project\DS\bin\Debug\DS.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\DS\bin\Debug\BE.dll
+C:\xampp\htdocs\GitHub\UI\windows_project\DS\bin\Debug\BE.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\DS\obj\Debug\DS.dll
+C:\xampp\htdocs\GitHub\UI\windows_project\DS\obj\Debug\DS.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\DS\obj\Debug\DS.csprojAssemblyReference.cache
+C:\xampp\htdocs\GitHub\UI\windows_project\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\GitHub\UI\windows_project\DS\obj\Debug\DS.csproj.CopyComplete
+D:\Users\Leivi\Documents\GitHub\windows_project\DS\bin\Debug\DS.dll
+D:\Users\Leivi\Documents\GitHub\windows_project\DS\bin\Debug\DS.pdb
+D:\Users\Leivi\Documents\GitHub\windows_project\DS\bin\Debug\BE.dll
+D:\Users\Leivi\Documents\GitHub\windows_project\DS\bin\Debug\BE.pdb
+D:\Users\Leivi\Documents\GitHub\windows_project\DS\obj\Debug\DS.csprojAssemblyReference.cache
+D:\Users\Leivi\Documents\GitHub\windows_project\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+D:\Users\Leivi\Documents\GitHub\windows_project\DS\obj\Debug\DS.csproj.CopyComplete
+D:\Users\Leivi\Documents\GitHub\windows_project\DS\obj\Debug\DS.dll
+D:\Users\Leivi\Documents\GitHub\windows_project\DS\obj\Debug\DS.pdb
+D:\Users\Leivi\Documents\GitHub\windows_project\DS\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Leivi\Documents\GitHub\windows_project\DS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\DS\bin\Debug\DS.dll
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\DS\bin\Debug\DS.pdb
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\DS\bin\Debug\BE.dll
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\DS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\DS\bin\Debug\BE.pdb
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\DS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\DS\obj\Debug\DS.dll
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\DS\obj\Debug\DS.pdb

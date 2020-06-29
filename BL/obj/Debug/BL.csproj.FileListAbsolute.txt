@@ -1,0 +1,52 @@
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\BL\bin\Debug\BL.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\BL\bin\Debug\BL.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\BL\bin\Debug\BE.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\BL\bin\Debug\DAL.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\BL\bin\Debug\DS.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\BL\bin\Debug\BE.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\BL\bin\Debug\DAL.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\BL\bin\Debug\DS.pdb
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\BL\obj\Debug\BL.dll
+C:\Users\Arilel\Documents\Visual Studio 2015\Projects\UI\BL\obj\Debug\BL.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\BL\bin\Debug\BL.dll
+C:\xampp\htdocs\GitHub\UI\windows_project\BL\bin\Debug\BL.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\BL\bin\Debug\BE.dll
+C:\xampp\htdocs\GitHub\UI\windows_project\BL\bin\Debug\DAL.dll
+C:\xampp\htdocs\GitHub\UI\windows_project\BL\bin\Debug\DS.dll
+C:\xampp\htdocs\GitHub\UI\windows_project\BL\bin\Debug\BE.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\BL\bin\Debug\DAL.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\BL\bin\Debug\DS.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\BL\obj\Debug\BL.dll
+C:\xampp\htdocs\GitHub\UI\windows_project\BL\obj\Debug\BL.pdb
+C:\xampp\htdocs\GitHub\UI\windows_project\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\xampp\htdocs\GitHub\UI\windows_project\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\GitHub\UI\windows_project\BL\obj\Debug\BL.csproj.CopyComplete
+D:\Users\Leivi\Documents\GitHub\windows_project\BL\bin\Debug\BL.dll
+D:\Users\Leivi\Documents\GitHub\windows_project\BL\bin\Debug\BL.pdb
+D:\Users\Leivi\Documents\GitHub\windows_project\BL\bin\Debug\BE.dll
+D:\Users\Leivi\Documents\GitHub\windows_project\BL\bin\Debug\DAL.dll
+D:\Users\Leivi\Documents\GitHub\windows_project\BL\bin\Debug\DS.dll
+D:\Users\Leivi\Documents\GitHub\windows_project\BL\bin\Debug\BE.pdb
+D:\Users\Leivi\Documents\GitHub\windows_project\BL\bin\Debug\DAL.pdb
+D:\Users\Leivi\Documents\GitHub\windows_project\BL\bin\Debug\DS.pdb
+D:\Users\Leivi\Documents\GitHub\windows_project\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\Users\Leivi\Documents\GitHub\windows_project\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\Users\Leivi\Documents\GitHub\windows_project\BL\obj\Debug\BL.csproj.CopyComplete
+D:\Users\Leivi\Documents\GitHub\windows_project\BL\obj\Debug\BL.dll
+D:\Users\Leivi\Documents\GitHub\windows_project\BL\obj\Debug\BL.pdb
+D:\Users\Leivi\Documents\GitHub\windows_project\BL\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Leivi\Documents\GitHub\windows_project\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\BL\bin\Debug\BL.dll
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\BL\bin\Debug\BL.pdb
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\BL\bin\Debug\BE.dll
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\BL\bin\Debug\DAL.dll
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\BL\bin\Debug\DS.dll
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\BL\bin\Debug\BE.pdb
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\BL\bin\Debug\DAL.pdb
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\BL\bin\Debug\DS.pdb
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\BL\obj\Debug\BL.dll
+C:\Users\Arilel\Downloads\Telegram Desktop\updated_windows_project\windows_project\BL\obj\Debug\BL.pdb

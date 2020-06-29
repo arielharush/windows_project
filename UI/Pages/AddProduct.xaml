@@ -1,0 +1,17 @@
+﻿<Page x:Class="UI.Pages.AddProduct"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:UI.Pages"
+      mc:Ignorable="d"
+      Title="AddProduct" Width="763.83" Height="4260.691">
+    
+    <Grid>
+        <Label x:Name="labelName" Content="Name:" HorizontalAlignment="Left" Margin="40,82,0,0" VerticalAlignment="Top" Width="76"/>
+        <TextBox x:Name="textBoxName" HorizontalAlignment="Left" Height="23" Margin="116,83,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="labelDescription" Content="description:" HorizontalAlignment="Left" Margin="29,152,0,0" VerticalAlignment="Top" Width="76"/>
+        <TextBlock x:Name="textBlockDescription" HorizontalAlignment="Left" Margin="110,152,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="88" Width="161"/>
+
+    </Grid>
+</Page>
